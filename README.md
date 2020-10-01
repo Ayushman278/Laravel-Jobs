@@ -1,7 +1,7 @@
 Laravel-Jobs
 ============
 
-A Laravel 4 package for adding jobs listings to a website
+A Laravel 4 packages for adding jobs listings to a website
 
 ## Features
 
